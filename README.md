@@ -134,11 +134,7 @@ In the end, I set a very tight deadline for each major component. It was too amb
 - Focus only on website output. That's already a LOT of work.
 - Be less ambitious. By nature, I want to go the extra mile. But it's also important to walk before you can run.
 
-Of course, it's more fun to share your successes, but I learned a ton and believe the knowledge & skills gained will be useful for the rest of my career.
-
-I learned a ton about programming language design (ergonomics, parsing, compilation, rendering, LSP, error handling…), web development (computer networking, components-based rendering, servers, …), marketing, and business analysis.
-
-On the upside, I was glad that I could quickly get productive in a new language (Rust). This was possible because I learned coding from first principles.
+Of course, it's more fun to share your successes, but I learned a ton about programming language design (ergonomics, parsing, compilation, rendering, LSP, error handling…), web development (computer networking, components-based rendering, servers, …), marketing, and business analysis. Skills that will stay with me for the rest of my career. On the upside, I was also glad that I could quickly get productive in a new language (Rust). This was possible because I learned coding from first principles.
 
 # What's Next
 
