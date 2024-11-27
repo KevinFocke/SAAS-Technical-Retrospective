@@ -117,9 +117,11 @@ To achieve this functionality, you need to:
 
 The second major challenge is creating a markup language that is extendable and customizable:
 
-- Hyperlinks and content organization are remarkably tricky. The Table of Contents is generally on the second or third page of a .pdf, but on a website it's in the sidebar or in the header. This is another instance of an _impedance mismatch_.
+- Hyperlinks and content organization are remarkably tricky.
+  
+Example 1: The Table of Contents is generally on the second or third page of a .pdf, but on a website it's in the sidebar or in the header. This is another instance of an _impedance mismatch_.
 
-The most popular web framework, NextJS, solves content organization with two different approaches: [The App Router & The Page Router](https://nextjs.org/docs/app/building-your-application/routing). This indicates the complexity of the problem. You also have to decide between client-side rendering, server-side rendering, pre-rendering, or a mix. Personally, I aimed for a static website that you could fully run offline (after caching locally, of course).
+Example 2: The most popular web framework, NextJS, solves content organization with two different approaches: [The App Router & The Page Router](https://nextjs.org/docs/app/building-your-application/routing). This indicates the complexity of the problem. You also have to decide between client-side rendering, server-side rendering, pre-rendering, or a mix. Personally, I aimed for a static website that you could fully run offline (after caching locally, of course).
 - How do you differentiate between prose and syntax? It's a delicate balance between _convenience_ and _clarity_. For example, in the Markup Language Markdown, you can surround a text with two asterisks `**text**` and have it displayed **bold**.
 - Users expect auto-completions (+ syntax highlighting) from their code editor. Most of the time, your code is in an incomplete state. This means the parser needs to have error recovery strategies _and_ suggestions to fix the problem.
 This is extra challenging to integrate with extendability because it requires domain knowledge about common usage patterns and specialist parsing knowledge.
