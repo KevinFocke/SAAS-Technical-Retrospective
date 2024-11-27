@@ -5,7 +5,7 @@ editor.
 
 ---
 
-Software documentation is [valuable](#TODO), yet in 2024 most developers rarely
+Software documentation is [valuable](https://www.linkedin.com/posts/kevinfocke_agile-retrospective-opentowork-activity-7267519046147878912-3F7x?utm_source=share&utm_medium=member_desktop), yet in 2024 most developers rarely
 or never write it. 
 
 My SAAS, Sonicaria, attempted to solve that problem—and
