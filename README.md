@@ -1,4 +1,4 @@
-# Sonicaria , A Technical Retrospective.
+# Sonicaria, A Technical Retrospective.
 
 Product: Software Documentation Tooling that integrates with your existing code
 editor.
